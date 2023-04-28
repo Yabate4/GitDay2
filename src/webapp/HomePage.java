@@ -7,4 +7,8 @@ public class HomePage {
     // yaredbranch and commiting
 
     // second update local home page
+
+    // add more things
+
+    // footer
 }
