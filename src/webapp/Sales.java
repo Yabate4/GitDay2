@@ -9,4 +9,6 @@ public class Sales {
     // 75% off hurry !!!!
 
     // sales added
+
+    // holiday sale is 80% off
 }
